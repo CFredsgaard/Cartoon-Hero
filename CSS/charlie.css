@@ -1,31 +1,36 @@
 body{
-	background-color: lightpink;
+	background-color: #FBE9FB;
 	margin: 0;
 }
+/*Header design*/
+	header{
+		background-color: violet;
+		text-align: center;
+		padding-bottom: 25px;
+		padding-top: 10px;
+		margin: 30px;
+		border-radius: 120px;
+		opacity: 0.5;
+	}
 
-header{
-	background-color: violet;
-	text-align: center;
-	padding-bottom: 25px;
-	padding-top: 10px;
-	margin: 30px;
-	border-radius: 120px;
-}
-
-header h1{
-	color: purple;
-	font-size: 50px;
-
-
-}
-
-header img{
-	border-radius: 120px;
-	border: 20px solid lightpink;
-	
-}
-
-main{
+	header h1{
+		color: #900C3F;
+		font-size: 50px;
+		font-family: 'comic neue';
+	}
 
 
-}
+	header img{
+		border-radius: 120px;
+		border: 20px solid lightpink;
+	}
+
+/*Main design*/
+	main{
+
+
+
+	}
+
+/*Footer design*/
+
