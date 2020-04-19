@@ -1,7 +1,9 @@
+
 body{
 	background-color: #FBE9FB;
 	margin: 0;
-}
+	font-family: 'Arial';
+	}
 /*Header design*/
 	header{
 		background-color: #B73DB5;
@@ -14,22 +16,64 @@ body{
 
 	header h1{
 		color: #FBE9FB;
-		font-size: 50px;
+		font-size: 90px;
 	}
 
 
 	header img{
-		border-radius: 120px;
+		border-radius: 200px;
 		border: 20px solid #FBE9FB;
-
 	}
 
-/*Main design*/
+/*Fonts*/
+	h1, h2, h3{
+		font-family: 'Bangers', cursive;
+		margin: 20px;
+	}
+
+/*Fact boxes*/
+	.about{
+		background-color: purple;
+		color: white;
+		margin: 20px;
+		padding: 30px; 
+		font-size: 20px;
+	}
+
+	.hobbies{
+		background-color: purple;
+		color: white;
+		margin: 20px;
+		padding: 30px; 
+		font-size: 20px;
+	}
+
+	.food_and_treats{
+		background-color: purple;
+		color: white;
+		margin: 20px;
+		padding: 30px; 
+		font-size: 20px;
+	}
+
+	.gallery{
+		background-color: purple;
+		color: white;
+		margin: 20px;
+		padding: 30px; 
+		font-size: 20px;
+	}
+
+/*Main design
 	main{
-
-
-
+		max-width: 800px;
+		margin: 0 auto;
 	}
+
+	main img{
+		max-width: 100%;
+	}
+*/
 
 /*Footer design*/
 
