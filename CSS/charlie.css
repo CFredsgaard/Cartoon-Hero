@@ -1,3 +1,28 @@
 body{
 	background-color: lightpink;
+	margin: 0;
+}
+
+header{
+	background-color: violet;
+	text-align: center;
+	padding: 15px 20px;
+	margin: 30px;
+	border-radius: 120px;
+}
+
+header h1{
+	color: purple;
+	font-size: 50px;
+
+}
+
+header img{
+	border-radius: 120px;
+	border: 20px solid lightpink;
+}
+
+main{
+
+
 }
