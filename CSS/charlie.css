@@ -4,25 +4,24 @@ body{
 }
 /*Header design*/
 	header{
-		background-color: violet;
+		background-color: #B73DB5;
 		text-align: center;
 		padding-bottom: 25px;
 		padding-top: 10px;
 		margin: 30px;
 		border-radius: 120px;
-		opacity: 0.5;
 	}
 
 	header h1{
-		color: #900C3F;
+		color: #FBE9FB;
 		font-size: 50px;
-		font-family: 'comic neue';
 	}
 
 
 	header img{
 		border-radius: 120px;
-		border: 20px solid lightpink;
+		border: 20px solid #FBE9FB;
+
 	}
 
 /*Main design*/
